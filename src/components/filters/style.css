@@ -1,0 +1,16 @@
+.filters {
+    display: flex;
+    gap: 4px;
+    margin: 5px 5px 5px 0;
+    cursor: pointer;
+}
+
+.badge {
+    font-size: 15px;
+}
+
+.badge-active {
+    background-color: #009670 !important;
+}
+
+a { font-size: 12px }

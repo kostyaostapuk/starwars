@@ -1,0 +1,12 @@
+.active {
+    background-color: #3c3c3c !important;
+    border-color: #3c3c3c !important;
+}
+
+.badge {
+    background-color: #3c3c3c !important;
+}
+
+.badge-danger {
+    background-color: #dc3545 !important;
+}
